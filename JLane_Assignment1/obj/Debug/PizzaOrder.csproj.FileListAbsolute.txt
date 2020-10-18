@@ -1,0 +1,20 @@
+C:\Projects\JLane_Assignment1\JLane_Assignment1\bin\Debug\JLane_Assignment1.exe.config
+C:\Projects\JLane_Assignment1\JLane_Assignment1\bin\Debug\JLane_Assignment1.exe
+C:\Projects\JLane_Assignment1\JLane_Assignment1\bin\Debug\JLane_Assignment1.pdb
+C:\Projects\JLane_Assignment1\JLane_Assignment1\obj\Debug\PizzaOrder.csprojAssemblyReference.cache
+C:\Projects\JLane_Assignment1\JLane_Assignment1\obj\Debug\JLane_Assignment1.orderForm.resources
+C:\Projects\JLane_Assignment1\JLane_Assignment1\obj\Debug\JLane_Assignment1.Properties.Resources.resources
+C:\Projects\JLane_Assignment1\JLane_Assignment1\obj\Debug\PizzaOrder.csproj.GenerateResource.cache
+C:\Projects\JLane_Assignment1\JLane_Assignment1\obj\Debug\PizzaOrder.csproj.CoreCompileInputs.cache
+C:\Projects\JLane_Assignment1\JLane_Assignment1\obj\Debug\JLane_Assignment1.exe
+C:\Projects\JLane_Assignment1\JLane_Assignment1\obj\Debug\JLane_Assignment1.pdb
+F:\Projects\Level 2 C# Assignments\JLane_Assignment1\JLane_Assignment1\bin\Debug\JLane_Assignment1.exe.config
+F:\Projects\Level 2 C# Assignments\JLane_Assignment1\JLane_Assignment1\bin\Debug\JLane_Assignment1.exe
+F:\Projects\Level 2 C# Assignments\JLane_Assignment1\JLane_Assignment1\bin\Debug\JLane_Assignment1.pdb
+F:\Projects\Level 2 C# Assignments\JLane_Assignment1\JLane_Assignment1\obj\Debug\PizzaOrder.csprojAssemblyReference.cache
+F:\Projects\Level 2 C# Assignments\JLane_Assignment1\JLane_Assignment1\obj\Debug\JLane_Assignment1.OrderForm.resources
+F:\Projects\Level 2 C# Assignments\JLane_Assignment1\JLane_Assignment1\obj\Debug\JLane_Assignment1.Properties.Resources.resources
+F:\Projects\Level 2 C# Assignments\JLane_Assignment1\JLane_Assignment1\obj\Debug\PizzaOrder.csproj.GenerateResource.cache
+F:\Projects\Level 2 C# Assignments\JLane_Assignment1\JLane_Assignment1\obj\Debug\PizzaOrder.csproj.CoreCompileInputs.cache
+F:\Projects\Level 2 C# Assignments\JLane_Assignment1\JLane_Assignment1\obj\Debug\JLane_Assignment1.exe
+F:\Projects\Level 2 C# Assignments\JLane_Assignment1\JLane_Assignment1\obj\Debug\JLane_Assignment1.pdb
